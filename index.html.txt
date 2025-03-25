@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ioannis Pierouas - CV</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 40px auto; padding: 20px; }
+        h1 { color: #333; }
+    </style>
+</head>
+<body>
+    <h1>Ioannis Pierouas</h1>
+    <p><strong>Software Engineer</strong> - Limassol</p>
+    <h2>About Me</h2>
+    <p>Software Engineer with a strong foundation in programming, problem-solving, and logical thinking...</p>
+    <h2>Skills</h2>
+    <ul>
+        <li>C/C++</li>
+        <li>Java</li>
+        <li>SQL</li>
+        <li>React/JS</li>
+        <li>Godot</li>
+    </ul>
+    <h2>Experience</h2>
+    <p><strong>Capital.com – Back Office Trainee</strong></p>
+    <p>Feb, 2025 – Present</p>
+</body>
+</html>
